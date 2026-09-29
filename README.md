@@ -90,6 +90,13 @@ jupyter notebook projects/blog-post-world-bank/analysis.ipynb
 
 ---
 
+## Blog Post
+
+Published on Medium:
+[Where in the World Would You Want to Live? What 20 Years of Economic Data Reveals](https://medium.com/@mail_84883/where-in-the-world-would-you-want-to-live-what-20-years-of-economic-data-reveals-18664baa9bc0)
+
+---
+
 ## Acknowledgments
 
 - **Data source:** [World Bank — World Development Indicators](https://databank.worldbank.org/source/world-development-indicators),
