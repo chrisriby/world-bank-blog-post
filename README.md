@@ -60,7 +60,7 @@ Download instructions are in the notebook (Section 1). The raw CSV file belongs 
 | Q1: Fastest-growing economy | China grew GDP per capita (PPP) by **+429%** between 2000 and 2022 — from $4,066 to $21,499 |
 | Q2: Investment vs. growth | Weak positive global correlation (r = 0.189); the link is strongest in Mongolia (r = 0.760), where capital investment tracks growth most consistently |
 | Q3: Best livability | **Ireland** scores highest (0.904 out of 1.0) on a composite index of income, life expectancy, and income equality across 165 countries; Namibia scores lowest (0.169) |
-| Q4: Crisis impact | COVID-19 (2020) hit nearly **19× harder** than the 2008 financial crisis: world average GDP growth fell −5.28% vs −0.28%; the 2021 recovery reached +5.73% |
+| Q4: Crisis impact | COVID-19 (2020) caused a deeper contraction than 2008: world average GDP growth fell **8 percentage points** (from +2.8% to −5.3%) versus a 4-point drop in the financial crisis (to −0.3%); the 2021 recovery reached +5.7% |
 | Q5: Life expectancy model | A Random Forest model predicts life expectancy with **R² = 0.922** and a mean error of 1.46 years; health expenditure per capita is the single strongest predictor |
 | Prediction scenario | For a hypothetical middle-income country, increasing healthcare spending from $500 to $4,000 per capita predicts a **+7.5 year** gain in life expectancy |
 
