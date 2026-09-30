@@ -1,0 +1,9 @@
+Udacity Data Science Nanodegree — Project 1: Data Science Blog Post
+Submission Links
+======================================================================
+
+GitHub Repository:
+https://github.com/chrisriby/world-bank-blog-post
+
+Blog Post (Medium):
+https://medium.com/@mail_84883/where-in-the-world-would-you-want-to-live-what-20-years-of-economic-data-reveals-18664baa9bc0
